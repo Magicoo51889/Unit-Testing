@@ -6,4 +6,6 @@ export function add(a:number, b:number){
     return c
 };
 
+var a = prompt("A: ")
+var b = prompt("B: ")
 add(2,7);
